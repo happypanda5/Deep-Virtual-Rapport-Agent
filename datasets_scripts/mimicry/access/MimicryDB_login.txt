@@ -1,0 +1,5 @@
+To download the Mimicry dataset, go to:
+https://mahnob-db.eu/mimicry/accounts/login/?next=/mimicry/search/
+
+login: msoley
+pwd: mimicry7ict
